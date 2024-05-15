@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @arpitgaur02
 - 👀 I’m interested in Learning to code and improve my problem solving in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me arpit.gaur2006@gmail.com
 
 <!---
 arpitgaur02/arpitgaur02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
