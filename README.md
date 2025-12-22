@@ -4,12 +4,11 @@
 
 I am a student at **Zoho School of Advanced Study**, specializing in **Artificial Intelligence**. I am passionate about building neural networks from scratch (using PyTorch & NumPy) to deeply understand the mathematics behind modern AI.
 
-- 🔭 I’m currently working on **Object Detection** and **Vision Transformers**.
+- 🔭 I’m currently working on **Object Detection** and **Object Classification**.
 - 🌱 I’m currently learning about **Advanced CNN Architectures** and **LLM Optimization**.
 - 👯 I’m looking to collaborate on **Open Source AI Projects**.
 - 💬 Ask me about **Computer Vision, ResNets, and PyTorch**.
 - 📫 How to reach me: **arpit.gaur2006@gmail.com**
-- ⚡ Fun fact: I implemented ResNet-50 from scratch just to see how it works!
 
 ---
 
