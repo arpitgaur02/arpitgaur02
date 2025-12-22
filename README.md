@@ -1,6 +1,6 @@
 # Hi there, I'm Arpit Gaur! 👋
 
-### 🧠 AI Researcher | Deep Learning Engineer | Computer Vision
+### 🧠 Deep Learning Engineer | Computer Vision
 
 I am a student at **Zoho School of Advanced Study**, specializing in **Artificial Intelligence**. I am passionate about building neural networks from scratch (using PyTorch & NumPy) to deeply understand the mathematics behind modern AI.
 
