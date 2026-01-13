@@ -38,6 +38,6 @@ I am a student at **Zoho School of Advanced Study**, specializing in **Artificia
 
 ![Arpit's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=arpitgaur02)
 
-![Top Langs](<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitgaur02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arpitgaur02&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
