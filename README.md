@@ -18,7 +18,7 @@
 
 I am a student at **Zoho School of Advanced Study**, specializing in **Artificial Intelligence**. I am passionate about understanding the mathematics behind modern AI and building systems that can "see" and understand the world.
 
-- 🔭 I’m currently working on **Object Detection** and **Vision Transformers**.
+- 🔭 I’m currently working on **Object Detection** and **Transformers**.
 - 🌱 I’m currently learning about **Advanced CNN Architectures** and **LLM Optimization**.
 - 💡 I enjoy implementing research papers (like ResNet) from scratch.
 - 📫 Contact me: **arpit.gaur2006@gmail.com**
